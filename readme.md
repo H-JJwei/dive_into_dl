@@ -5,3 +5,4 @@ test: git fetch, merge
 
 test:git pull1
 test:git pull2
+test:git pull3
