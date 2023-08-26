@@ -1,1 +1,2 @@
 test LOG
+test LOG2
